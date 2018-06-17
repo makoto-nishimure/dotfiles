@@ -1,7 +1,7 @@
 " ファイルエンコード
 set fileencodings=euc-jp,utf-8
 " 通常使う文字エンコーディング
-set encoding=utf-8
+set fileencoding=utf-8
 scriptencoding utf-8
 " 行番号の表示
 set number
